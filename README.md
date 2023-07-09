@@ -24,7 +24,7 @@ Download from github.  Then from the root of that file, login into mysql and beg
 
 ## Usage
 
-It can be used to see, add to, update and delete from the database.  These actions can be run with Insomnia.
+It can be used to see, add to, update and delete from the database.  These actions can be run with Insomnia. [demo](https://drive.google.com/file/d/1szOlFgj6bCxSNLvgViBYDnb4m4KLjy30/view)
 
 ## License
 
