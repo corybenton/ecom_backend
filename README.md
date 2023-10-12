@@ -26,6 +26,8 @@ Download from github.  Then from the root of that file, login into mysql and beg
 
 It can be used to see, add to, update and delete from the database.  These actions can be run with Insomnia. [demo](https://drive.google.com/file/d/1szOlFgj6bCxSNLvgViBYDnb4m4KLjy30/view)
 
+<img width="714" alt="Screenshot 2023-08-27 140051" src="https://github.com/corybenton/ecom_backend/assets/128768293/560652c2-6a59-4875-82d7-544b67fc46d9">
+
 ## License
 
 This program is using the MIT license.
